@@ -25,7 +25,7 @@ import nlp
 
 _CITATION = """
 @misc{alex2019multinews,
-    title={Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model},
+    title={Arabic-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model},
     author={Alexander R. Fabbri and Irene Li and Tianwei She and Suyi Li and Dragomir R. Radev},
     year={2019},
     eprint={1906.01749},
@@ -35,7 +35,7 @@ _CITATION = """
 """
 
 _DESCRIPTION = """
-Multi-News, consists of news articles and human-written summaries
+arabic-News, consists of news articles and human-written summaries
 of these articles from the site newser.com.
 Each summary is professionally written by editors and
 includes links to the original articles cited.
